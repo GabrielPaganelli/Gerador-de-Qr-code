@@ -1,4 +1,5 @@
 // Rodar o 'npm i'
+// Para rodar o código insira no terminal o comando: 'npm run start:dev'
 
 import prompt from "prompt"
 
