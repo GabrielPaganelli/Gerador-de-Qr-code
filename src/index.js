@@ -1,3 +1,5 @@
+// Rodar o 'npm i'
+
 import prompt from "prompt"
 
 import mainPrompt from "./prompts/promptMain.js"
